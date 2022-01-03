@@ -18,7 +18,7 @@ npm start
 -We have also provided a link to our home page from every movie page that the user is viewing.
 
 List of movies matching word "Avengers"
-[](https://github.com/khmasai/MoviePedia/blob/main/image/Screenshot%202022-01-03%20at%201.37.20%20PM.png)
+![](https://github.com/khmasai/MoviePedia/blob/main/image/Screenshot%202022-01-03%20at%201.37.20%20PM.png)
 
 Detail page about selected movie
-[](https://github.com/khmasai/MoviePedia/blob/main/image/Screenshot%202022-01-03%20at%201.40.30%20PM.png)
+![](https://github.com/khmasai/MoviePedia/blob/main/image/Screenshot%202022-01-03%20at%201.40.30%20PM.png)
