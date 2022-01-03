@@ -1,6 +1,6 @@
 # MoviePedia React App
 [Link to App](https://khush-moviepedia.netlify.app)
-![project image](https://oliver-gomes.github.io/images/github%20images/react-movie.png)
+![project image](https://github.com/khmasai/MoviePedia/image/Screenshot%202022-01-03%20at%201.20.06%20PM.png)
 
 ### How to Load the App
 ```
